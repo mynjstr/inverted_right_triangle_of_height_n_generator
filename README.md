@@ -1,0 +1,1 @@
+# inverted_right_triangle_of_height_n_generator
